@@ -1,0 +1,57 @@
+<DOCTYPE html>
+   <html>
+   <head>
+       <tittle> <span style = "font-size:50 px; color: #FF0000; Ejemplo con DIVS</span> </tittle>
+	   </head>
+	   <body>
+	   
+	   <div id= "cabecera"> HTML5 <p> (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: un «clásico» HTML (text/html), la variante conocida como HTML5 y una variante XHTML conocida como sintaxis XHTML5 que deberá ser servida como XML).1 2 Esta es la primera vez que HTML y XHTML se han desarrollado en paralelo.
+Todavía se encuentra en modo experimental, lo cual indica la misma W3C; aunque ya es usado por múltiples desarrolladores web por sus avances, mejoras y ventajas.
+Al no ser reconocido en viejas versiones de navegadores por sus nuevas etiquetas, se le recomienda al usuario común actualizar a la versión más nueva, para poder disfrutar de todo el potencial que provee HTML5.
+El desarrollo de este lenguaje de marcado es regulado por el Consorcio W3C. <p> </div>
+	   
+	   <img src="http://farm6.static.flickr.com/5178/5428759578_d6fb2288a4.jpg" alt="Árbol con ramas" />
+	   <div id= "nav"> <p> Jose Luis Lopez Sigala <p>	   </div>
+	   <div id= "principal"> <p>  Nuevos elementos <p> HTML5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Algunos de ellos son técnicamente similares a las etiquetas <div> y <span>,
+	   pero tienen un significado semántico, 
+	   como por ejemplo <nav> (bloque de navegación del sitio web) y <footer>.
+	   Otros elementos proporcionan nuevas funcionalidades a través de una interfaz estandarizada,
+	   como los elementos <audio> y <video>. Mejora el elemento <canvas>, 
+	   capaz de renderizar elementos 3D en los navegadores más importantes (Mozilla, Chrome, Opera, Safari e IE).
+          Algunos elementos de HTML 4.01 han quedado obsoletos,
+		  incluyendo elementos puramente de presentación, como <font> y <center>, cuyos efectos son manejados por Hojas de estilo en cascada. 
+		  También hay un renovado énfasis en la importancia del scripting DOM para el comportamiento de la web. 2.0
+	   </div>
+	   <div id= "lateral">  </div>
+	   <ul>
+	   <div id= "lista de html"> lista de html <p>
+	 
+	   <li> cdata (CS) </li>
+	   <li> character (CN) </li>
+	   <li> charset (CI) </li>
+	   </li>
+	   <img src="http://2.bp.blogspot.com/_8MORooGGMq8/SxFSNJLK8kI/AAAAAAAAAuc/b_PWxNMAb70/s1600/paisaje%2B10.jpg" alt="atardecer violeta" />
+	     <br>
+<a href ="https://www.facebook.com/DibujaGdl"> Facebook
+<p>
+<p>
+</a>
+		 <table  border = "2">
+<tr> 
+ <th> Cdata</th>
+<th> Character</th>
+<th> Charset </th>
+
+</tr>
+
+<tr> 
+<td> character data</td>
+<td> caracter <td>
+<td> (cfd)</td>
+
+</tr>
+</table>
+
+
+	   </body>
+	   </html>
